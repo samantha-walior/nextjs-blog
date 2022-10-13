@@ -2,6 +2,12 @@
 title: 'Gymnastics 101'
 date: '2022-10-13'
 ---
+I :heart: Gymnastics! Reasons why I love Gymnastics:
+
+- It's insane to watch
+- Almost noone can do flips and shit :scream-cat:
+- [I mean just watch this!](https://www.youtube.com/watch?v=-5OA01CKDhs)
+
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
 
